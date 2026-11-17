@@ -1,6 +1,6 @@
 [component]
 name = "SigmaOS-theme-y"
-description = "SigmaOS subsystem component for theme-y"
+description = "Mint-Y GTK theme"
 version = "0.1.0"
 tier = 5
 
